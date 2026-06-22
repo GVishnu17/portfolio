@@ -55,10 +55,16 @@ body {
 
 section {
   padding: 96px 0;
+  border-top: 1px solid rgba(31, 56, 100, 0.08);
+}
+
+#hero {
+  border-top: none;
 }
 
 #about {
   background: var(--navy);
+  border-top: 1px solid var(--navy);
 }
 
 #skills {
