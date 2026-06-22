@@ -61,6 +61,7 @@ export default function Hero() {
 
         <div className="hero__cta">
           <a href="#projects" className="btn btn--primary">View Projects</a>
+          <a href="/resume.pdf" download className="btn btn--ghost">Download Resume</a>
           <a href="#contact" className="btn btn--ghost">Get in Touch</a>
         </div>
 
