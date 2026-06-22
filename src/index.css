@@ -57,6 +57,26 @@ section {
   padding: 96px 0;
 }
 
+#about {
+  background: #F2F6FA;
+}
+
+#skills {
+  background: #FBF3EC;
+}
+
+#projects {
+  background: #F5F7FA;
+}
+
+#education {
+  background: #FDF8F2;
+}
+
+#contact {
+  background: #F1F5F9;
+}
+
 @media (max-width: 640px) {
   section {
     padding: 64px 0;

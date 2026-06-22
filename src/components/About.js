@@ -12,6 +12,9 @@ export default function About() {
           <span className="eyebrow">01 / About</span>
           <h2 className="section-title">A bit about me</h2>
           <div className="about__grid">
+            <div className="about__photo">
+              <img src="/about.jpg" alt="Gongadi Vishnu Vardhan" />
+            </div>
             <p className="about__text">
               I'm an aspiring front-end developer with a strong foundation in HTML, CSS,
               JavaScript, and responsive design. I care about writing clean, efficient code

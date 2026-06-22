@@ -5,7 +5,7 @@
 }
 
 .skill-card {
-  background: var(--surface);
+  background: #FFFFFF;
   border: 1px solid var(--line);
   border-radius: 10px;
   padding: 24px;
@@ -15,6 +15,7 @@
 .skill-card:hover {
   border-color: var(--amber);
   transform: translateY(-3px);
+  box-shadow: 0 16px 32px -20px rgba(31, 56, 100, 0.25);
 }
 
 .skill-card__label {
