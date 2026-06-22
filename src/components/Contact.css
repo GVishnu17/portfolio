@@ -1,0 +1,21 @@
+.contact {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.contact .section-title {
+  margin-bottom: 16px;
+}
+
+.contact__text {
+  color: var(--slate);
+  margin-bottom: 32px;
+}
+
+.contact__links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 14px;
+}
