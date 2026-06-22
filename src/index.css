@@ -58,7 +58,7 @@ section {
 }
 
 #about {
-  background: #F2F6FA;
+  background: var(--navy);
 }
 
 #skills {

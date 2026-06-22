@@ -19,6 +19,9 @@ export default function Contact() {
             <a href="mailto:vishnugongadi02@gmail.com" className="btn btn--primary">
               vishnugongadi02@gmail.com
             </a>
+            <a href="tel:+919392637131" className="btn btn--ghost">
+              +91 9392637131
+            </a>
             <a href="https://github.com/GVishnu17" target="_blank" rel="noreferrer" className="btn btn--ghost">
               GitHub
             </a>
