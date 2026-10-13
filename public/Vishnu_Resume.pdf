@@ -9,9 +9,34 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
 endobj
 4 0 obj
-<< /Length 39 >>
+<< /Length 652 >>
 stream
-BT /F1 24 Tf 50 70 Td (Vishnu Resume) Tj ET
+BT
+/F1 18 Tf 50 740 Td (Gongadi Vishnu Vardhan) Tj
+/F1 12 Tf 0 -26 Td (Front-End Developer) Tj
+0 -18 Td (Kadapa, Andhra Pradesh | +91 9392637131 | vishnugongadi02@gmail.com) Tj
+0 -18 Td (GitHub: https://github.com/GVishnu17 | LinkedIn: https://www.linkedin.com/in/gongadi-vishnuvardhan-3aa8a7208) Tj
+0 -26 Td ( ) Tj
+0 -18 Td (Summary:) Tj
+0 -16 Td (Aspiring front-end developer focused on building clean, accessible user interfaces using HTML, CSS, and JavaScript. Experienced with React and responsive design; also explored applied machine learning including a sign-language recognition project.) Tj
+0 -22 Td ( ) Tj
+0 -16 Td (Skills:) Tj
+0 -16 Td (Web: HTML, CSS, JavaScript, React) Tj
+0 -16 Td (Libraries/Tools: React Router, Context API, Git, Vercel, Bootstrap) Tj
+0 -16 Td (ML: PyTorch, TensorFlow, OpenCV, timm) Tj
+0 -22 Td ( ) Tj
+0 -16 Td (Selected Projects:) Tj
+0 -16 Td (ShopEase — React E-Commerce Platform: Responsive shopping UI, category filtering, cart with Context API and localStorage. Live demo: https://shopease-blush.vercel.app | Code: https://github.com/GVishnu17/shopease) Tj
+0 -18 Td (Sign Language Recognition — CNN vs Vision Transformer: Deep learning project comparing CNN and ViT for ASL hand gesture classification. Tools: PyTorch, OpenCV. Code: https://github.com/GVishnu17/sign-language-recognition) Tj
+0 -22 Td ( ) Tj
+0 -16 Td (Education & Interests:) Tj
+0 -16 Td (Foundational courses in web development and self-directed projects in applied ML and computer vision.) Tj
+0 -22 Td ( ) Tj
+0 -16 Td (Availability:) Tj
+0 -16 Td (Seeking entry-level front-end developer roles; open to junior positions and internships.) Tj
+0 -26 Td ( ) Tj
+0 -16 Td (How to reach me: Email preferred — vishnugongadi02@gmail.com) Tj
+ET
 endstream
 endobj
 5 0 obj
@@ -20,13 +45,13 @@ endobj
 xref
 0 6
 0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000115 00000 n 
-0000000241 00000 n 
-0000000331 00000 n 
+0000000010 00000 n 
+0000000061 00000 n 
+0000000120 00000 n 
+0000000286 00000 n 
+0000000943 00000 n 
 trailer
 << /Root 1 0 R /Size 6 >>
 startxref
-401
+1020
 %%EOF
