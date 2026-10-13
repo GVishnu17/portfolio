@@ -1,57 +1,132 @@
 %PDF-1.4
+%���� ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Length 652 >>
-stream
-BT
-/F1 18 Tf 50 740 Td (Gongadi Vishnu Vardhan) Tj
-/F1 12 Tf 0 -26 Td (Front-End Developer) Tj
-0 -18 Td (Kadapa, Andhra Pradesh | +91 9392637131 | vishnugongadi02@gmail.com) Tj
-0 -18 Td (GitHub: https://github.com/GVishnu17 | LinkedIn: https://www.linkedin.com/in/gongadi-vishnuvardhan-3aa8a7208) Tj
-0 -26 Td ( ) Tj
-0 -18 Td (Summary:) Tj
-0 -16 Td (Aspiring front-end developer focused on building clean, accessible user interfaces using HTML, CSS, and JavaScript. Experienced with React and responsive design; also explored applied machine learning including a sign-language recognition project.) Tj
-0 -22 Td ( ) Tj
-0 -16 Td (Skills:) Tj
-0 -16 Td (Web: HTML, CSS, JavaScript, React) Tj
-0 -16 Td (Libraries/Tools: React Router, Context API, Git, Vercel, Bootstrap) Tj
-0 -16 Td (ML: PyTorch, TensorFlow, OpenCV, timm) Tj
-0 -22 Td ( ) Tj
-0 -16 Td (Selected Projects:) Tj
-0 -16 Td (ShopEase — React E-Commerce Platform: Responsive shopping UI, category filtering, cart with Context API and localStorage. Live demo: https://shopease-blush.vercel.app | Code: https://github.com/GVishnu17/shopease) Tj
-0 -18 Td (Sign Language Recognition — CNN vs Vision Transformer: Deep learning project comparing CNN and ViT for ASL hand gesture classification. Tools: PyTorch, OpenCV. Code: https://github.com/GVishnu17/sign-language-recognition) Tj
-0 -22 Td ( ) Tj
-0 -16 Td (Education & Interests:) Tj
-0 -16 Td (Foundational courses in web development and self-directed projects in applied ML and computer vision.) Tj
-0 -22 Td ( ) Tj
-0 -16 Td (Availability:) Tj
-0 -16 Td (Seeking entry-level front-end developer roles; open to junior positions and internships.) Tj
-0 -26 Td ( ) Tj
-0 -16 Td (How to reach me: Email preferred — vishnugongadi02@gmail.com) Tj
-ET
-endstream
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:vishnugongadi02@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 260.6562 750.0154 386.7138 761.5354 ] /Subtype /Link /Type /Annot
+>>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.linkedin.com/in/gongadi-vishnuvardhan-3aa8a7208)
+>> /Border [ 0 0 0 ] /Rect [ 99.52978 736.6154 316.701 748.1354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/GVishnu17)
+>> /Border [ 0 0 0 ] /Rect [ 367.7346 736.6154 464.8482 748.1354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portfolio-8rim.vercel.app)
+>> /Border [ 0 0 0 ] /Rect [ 99.52018 723.2154 202.4802 734.7354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://shopease-blush.vercel.app)
+>> /Border [ 0 0 0 ] /Rect [ 101.7438 479.7954 211.6838 490.8354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/GVishnu17/shopease)
+>> /Border [ 0 0 0 ] /Rect [ 251.4094 479.7954 386.9254 490.8354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/GVishnu17/sign-language-recognition)
+>> /Border [ 0 0 0 ] /Rect [ 81.29218 330.9954 282.763 342.0354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/PageMode /UseNone /Pages 14 0 R /Type /Catalog
+>>
+endobj
+13 0 obj
+<<
+/Author (Gongadi Vishnu Vardhan) /CreationDate (D:20261013103154+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261013103154+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Gongadi Vishnu Vardhan - Resume) /Trapped /False
+>>
+endobj
+14 0 obj
+<<
+/Count 1 /Kids [ 11 0 R ] /Type /Pages
+>>
+endobj
+15 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2385
+>>
+stream
+Gb!#]hc&Pn&:WfGfXGm<ij7b(4>kJ*`taW!Ui\Z8Mm/I7LEj@8*L`DqnQj7Vn.Ba:HKiY9)2r'.gASDUmC0q5)aBAYSZDfdBCPVc!tKn8*$!;q@!2k:g!O.sc??#P=\][M&VP^Jq6'2FHhc66CaT]4Ge-AQ)\Z&+,Fm69/V=_>E!ZTa/3s?N_""rL$^u+Gji(+sE(a3BUuDj-5/HSU^&DsFl*A-`/8*iEf+!T*K,'Kpo,Y>$58$6J_"*'g(UaBIJa3rl-XL>$1RNW/V/&NR:<0I;d#c1*%LpFgp!;Jp/`?D*RaR]9?mO0sU+fG$A]5:tpi64-I0'*l`n:om^^V=9fm@P<0=dgD=W<G<2.SW@H*O)+ZP'h6JX>\*@6_Cehf:kAg;68[KZbN#ZimlENple[G(Ac.<oD#o-_@+ESsN\EYk18P(rogLE;VafR<b,,NQYNYhJV9jf&3[r!#rM67PlB6<6t:B>Iq;CjiHsP0Afk*s2EOm0:15&Z1P]S!%7-<Qc-_^HLI]r1njAGdZE*AkZ1ER.d&SIo"Xsl2_P[d`E1WZWJ"guc1BOQ#i_Kd!l:fDd5"TqDY\i(7c#0m\IAj*:<dj7KVlLk?&`b$m'EX'\"](&2n;(R<]XYQ+!^-^!8JG9(*!UY_JU_B_0=IUYAldNlin?&FI;BmEXdWV;U/[Uj`mu
+\WW[,16Fo'mq'cY4CSEpKqcLu$^f+0UpT2\!#P-RG',fqZfuQ3+6].g'?0Q`!&oi`,uC+$Yp,O/i+pn/GDs2T(W(dQMJ)UTPi\=gYS<s-R?)'u#.WO&atf%[F-T%Bhq*$"7PgtM1lE[eRSjo5"q!pK/"DH^o\N9'B,*UF/]r+T(fc0_'=j9u(g;_jBNlUS@StMV_s%iF&6uh[p"4'>[J/\8!pnNsbKFUl2;NFU4+)G/I]IKRbPlIMrP;G+Rojts%$@KtfG<l@O6c0$$m2u@*`%E\mbS@[Z72-G8#c5ma,1CAoK/TKJ9fLMZjCX9;pg9oNN>aLcjbAVrE[9RE\W+=;Ej#p;^k@5*1@CAR/h@6oPc=>=p0!K[n^Z.TY7A3%WeJa]m!^9SO,$1as@]I:JA3lIjW)*j._bF;s\6TrU$nG(I;8,*5IJ0SnB%rip*her5iOt<O*U[N/9m$GF<gu^idr@fkh6uIA`?8#;C9IA_%UkW!<N'Mh1ub:,-oi"SC7Z2[k$Z(PoARPs<naTYj2/j%7U0L2UOraj'L6n_'uK+/)H<]`4+TI,lO@lg(+uV6++5(+W0C].G`bE*_'2rC*lI_A6j]T+@3)$*a@V-!Xr7lbDoF]T.[^PBK*6;%c%$eU&djF`0^WV7@oi-[nfJ9o_+Te&+#<'%0\iL6h:tk(i_8&c/3_`Q`h5n!uGVNO?H3N,G"L2t3EYFEuNKeai@U$K"\A8tN\u'"'u4#fuKVbPq(C9)L1+Y#DUGMI!gkD.?%rrBM65G;0PU6Ha3I_QiEOd'.qTBC;:omL!pPIQ?D8^<gpu\.rZDWYH%c/WlX3=FkKb1G.$kM$Z"h3PNBFQG#ck,i]&K>XF_T]k#4e`bt_rl8G.G03AGa\eOO2RT(^c404dj"&@K9JU+EQ;VRh[\0^MA*Q?SjcTrPI.8+"tW5pcP/J'1ud$\-X/?q2eMFRe8_p6E:2l9?F==mCOi_2tBJ'eK:gNs6mmio??FH,]2V(I[ms.M,d@_?PE7s>cq'LrgZ8Yp[B!EE\lIL6AeX&1\*S7Gaj$hM?G5<o_9KbkICh:M.Lot\o`rU1ZB/"/6RBYd@6<juR-8[FB4B6\4Wf]8+@2MQAq(,nr`>r?`5\([gC3WE;b_)^TpNk<@0:Q$-2oCi__%+VrP_A?Y&p!.CM_!)*k^A-IK\F/+?h?(m\Y&?CQZ]?2:?0LlHSRsZH75:-D`Dd?u4g.;t#H6QB3El"(WY(u(n.7k=6drRkmSZ9?B:'i+G"GVq$&L2t4D[IcVUC:t2/N-U@B7`B!J50t[*/31M.^jo;oSAXKFU/iogW*4"k>W4cSG!5=B5LDlpiA-Q@^ALlK@bu:;P?M&sbSrY\>^?`CrSJB/$q;1hS%fnT(4>(W5bngn,#-RV!<%H%\JFjiE"AL@Hq3T8dG!f,sl@laHgXE:C"26h7Gd!iOW%1*m8$>&/)E-Cfpg`dKDBH8DF;oCcA$!DIFX`n6;l<TU_@H[6?p$ZBC*Skhg'J0Nb8JYhi'I-i!5f`s]1O;'R0SAU%G-rqn\'MHe4X_MFrJ\`l:ocUcahNu[oC]4W8@e[[RI6&hA*oO]`ff,o/Pos=fZmn\eBiauoFJUMR001PkZ-e-?"Qcm&I/^Y?M?C0YjeP)=/9L)-3E'+#UOLFK0.O(D2-oDOe.b/lp$Fa#7ABR7$S&N`U=lF%c`7Kpr<l5nc\;~>
+endstream
 endobj
 xref
-0 6
+0 16
 0000000000 65535 f 
-0000000010 00000 n 
 0000000061 00000 n 
-0000000120 00000 n 
-0000000286 00000 n 
-0000000943 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000505 00000 n 
+0000000715 00000 n 
+0000000895 00000 n 
+0000001080 00000 n 
+0000001265 00000 n 
+0000001454 00000 n 
+0000001660 00000 n 
+0000001921 00000 n 
+0000001991 00000 n 
+0000002299 00000 n 
+0000002360 00000 n 
 trailer
-<< /Root 1 0 R /Size 6 >>
+<<
+/ID 
+[<f2513c11d55adc4f5bd98a1afe36242a><f2513c11d55adc4f5bd98a1afe36242a>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 13 0 R
+/Root 12 0 R
+/Size 16
+>>
 startxref
-1020
+4837
 %%EOF
